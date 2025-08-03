@@ -1,3 +1,5 @@
+<img width="1425" height="750" alt="CG_thumbnail" src="https://github.com/user-attachments/assets/965adde8-0d5a-45f2-bd5f-d5d3e6b92e01" />
+
 # Consumer Goods Insights (SQL)
 
 ## 📌 Introduction
